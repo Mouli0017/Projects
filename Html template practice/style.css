@@ -63,9 +63,11 @@ a {
     color: #A9A8A8;
     text-decoration: none;
 }
-a:hover{
+
+a:hover {
     color: #4c4c4c;
 }
+
 
 .login {
     width: 15%;
@@ -82,7 +84,6 @@ a:hover{
 .login_icon {
     width: 10%;
     fill: #d98473;
-    ;
     padding-left: 57px;
     padding-right: 10px;
 
@@ -94,7 +95,7 @@ a:hover{
     font-size: 18px;
     margin-left: 2%;
     padding-bottom: 1%;
-    
+
 }
 
 .login_icon0 {
@@ -106,8 +107,9 @@ a:hover{
 
 .center {
     width: 75%;
-    height: 50%;
+    height: 350px;
     margin: 10% auto;
+
 }
 
 .image {
@@ -117,6 +119,7 @@ a:hover{
     margin-left: 5%;
     background: url(./images/banner-img.png);
     background-position: center;
+    /* background-size: contain; */
     background-repeat: no-repeat;
     float: left;
 }
@@ -141,7 +144,6 @@ a:hover{
     width: 100%;
     font-size: 24px;
     color: #e38773;
-
     font-weight: bold;
     margin: 0px;
 }
@@ -167,7 +169,7 @@ a:hover{
     border-radius: 5px;
 }
 
-.about:hover{
+.about:hover {
     background-color: #232222;
 }
 
@@ -872,4 +874,49 @@ a:hover{
     padding: 0%;
     margin: 0%;
     margin-top: 4%;
+}
+
+@media screen and (max-width: 426px) {
+    .menu {
+        display: none;
+    }
+    .login {
+        display: none;
+    }
+    .image {
+        background-size: contain;
+        float: none;
+    }
+    .container1{
+        float: none;
+        width: 100%;
+        margin-left: 15px;
+    }
+
+    .container{
+        height: 1000px;
+        background-size: auto;
+        background-position: left;
+        width: 100%;
+    }
+    .Tasty{
+        color: white;
+        padding-top: 10px;
+    }
+    .center{
+        width: 100%;
+    }
+.letters{
+    width: 80%;
+}
+.coffee{
+    padding-top:90px;
+   
+}
+.about{
+    margin-top: 30px;
+}
+.call{
+    margin-top: 30px;
+}
 }
