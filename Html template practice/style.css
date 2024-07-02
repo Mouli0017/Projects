@@ -880,43 +880,118 @@ a:hover {
     .menu {
         display: none;
     }
+
     .login {
         display: none;
     }
-    .image {
-        background-size: contain;
-        float: none;
-    }
-    .container1{
+
+    .container1 {
         float: none;
         width: 100%;
         margin-left: 15px;
     }
 
-    .container{
-        height: 1000px;
+    .container {
+        height: 970px;
         background-size: auto;
         background-position: left;
         width: 100%;
     }
-    .Tasty{
+
+    .Tasty {
         color: white;
         padding-top: 10px;
     }
-    .center{
+
+    .center {
         width: 100%;
     }
-.letters{
-    width: 80%;
-}
-.coffee{
-    padding-top:90px;
-   
-}
-.about{
-    margin-top: 30px;
-}
-.call{
-    margin-top: 30px;
-}
+
+    .letters {
+        width: 80%;
+    }
+
+    .coffee {
+        padding-top: 90px;
+
+    }
+
+    .about {
+        margin-top: 30px;
+    }
+
+    .call {
+        margin-top: 30px;
+    }
+
+    .image {
+        background-size: contain;
+        float: none;
+        width: 92%;
+        height: 420px;
+    }
+
+    .our {
+        width: 100%;
+        font-size: 30px;
+        margin-top: 90px;
+    }
+
+    .dot {
+        width: 100%;
+
+    }
+
+
+    .box1 {
+        width: 92%;
+        margin-left: 13px;
+        /* margin-top: 10px; */
+        margin-bottom: 50PX;
+    }
+
+    .box2 {
+        width: 92%;
+        margin-left: 13px;
+        /* margin-top: 10px; */
+        margin-bottom: 50PX;
+    }
+
+    .read {
+        padding: 13px 3px 13px 3px;
+    }
+
+    .border1 {
+        height: auto;
+        width: 100%;
+    }
+
+    .about_1 {
+        width: 100%;
+        font-size: 30px;
+        margin-top: 70px;
+
+    }
+
+    .dot_1 {
+        width: 100%;
+    }
+
+    .customer_border {
+        height: auto;
+        width: 100%;
+    }
+
+    .image_2 {
+        height: auto;
+        float: none;
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .outerborder1 {
+        width: 100%;
+        margin-top: 177px;
+        height: auto;
+    }
 }
