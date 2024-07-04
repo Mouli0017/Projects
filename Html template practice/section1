@@ -1,0 +1,175 @@
+* {
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .login {
+        display: none;
+    }
+
+    .container1 {
+        float: none;
+        width: 95%;
+        margin: 0%;
+        /* margin-left: 15px; */
+    }
+
+    .container {
+        height: 970px;
+        background-size: auto;
+        background-position: left;
+        width: 98%;
+    }
+
+    .Tasty {
+        color: white;
+        padding-top: 10px;
+    }
+
+    .center {
+        width: 100%;
+    }
+
+    .letters {
+        width: 80%;
+    }
+
+    .coffee {
+        padding-top: 90px;
+
+    }
+
+    .about {
+        margin-top: 30px;
+    }
+
+    .call {
+        margin-top: 30px;
+    }
+    .border{
+        width: 95%;
+    }
+
+    .image {
+        background-size: contain;
+        float: none;
+        width: 92%;
+        height: 420px;
+    }
+
+    .our {
+        width: 95%;
+        margin: 0%;
+        font-size: 30px;
+        margin-top: 90px;
+    }
+
+    .dot {
+        width: 100%;
+
+    }
+
+
+    .box1 {
+        width: 92%;
+        margin-left: 13px;
+        /* margin-top: 10px; */
+        margin-bottom: 50PX;
+    }
+
+    .box2 {
+        width: 92%;
+        margin-left: 1px;
+        /* margin-top: 10px; */
+        margin-bottom: 50PX;
+    }
+
+    .read {
+        padding: 13px 3px 13px 3px;
+    }
+
+    .border1 {
+        width: 100%;
+    }
+
+    .about_1 {
+        width: 95%;
+        font-size: 30px;
+        margin-top: 70px;
+        margin: 0%;
+
+    }
+
+    .dot_1 {
+        width: 95%;
+        margin: 0%;
+
+    }
+
+    .customer_border {
+        width: 95%;
+
+    }
+
+    .customer_heading {
+        width: 95%;
+    }
+
+    .customer_dot {
+        width: 50%;
+        padding: 0%;
+    }
+
+    .customer_outerborder {
+        width: 95%;
+        margin: 0%;
+    }
+
+    .image_2 {
+        height: auto;
+        float: none;
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .heading {
+        width: 95%;
+    }
+
+    .outerborder1 {
+        width: 95%;
+        margin-top: 177px;
+        height: auto;
+    }
+
+    .outerborder {
+        width: 93%;
+        margin: 0%;
+    }
+
+    iframe {
+        width: 95%;
+    }
+
+    .blog_border {
+        width: 95%;
+    }
+
+    .get_border {
+        width: 95%;
+    }
+
+    .last_image2 {
+        width: 95%;
+    }
+
+    .last_image3 {
+        width: 95%;
+    }
+    .last_border{
+        width: 95%;
+    }
