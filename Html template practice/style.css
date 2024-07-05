@@ -1267,19 +1267,26 @@ a:hover {
     }
 
     .footer_border {
-        width: 100%;
+        width: 98%;
     }
 
     .footer_border1 {
-        width: 90%;
+        width: 89%;
+        font-size: 13px;
     }
 
     .footer_content {
         float: none;
+        width: 100%;
+        margin: 0%;
+        padding: 0%;
     }
 
     .footer_icon {
         float: none;
     }
+.footer_icon1 {
+    padding: 22px;
+}   
 
 }
